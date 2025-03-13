@@ -39,7 +39,7 @@ export default function LoginForm() {
   return (
     <div className="bg-white rounded-lg shadow-lg p-8">
       <h2 className="text-2xl font-semibold text-pink-600 mb-6 text-center">
-        Welcome to Ramsee Calendar
+        Welcome to Rams Cal
       </h2>
       <form onSubmit={handleSubmit} className="space-y-4">
         <div>

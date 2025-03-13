@@ -3,7 +3,7 @@ import { isAuthenticated } from '@/lib/auth';
 import ClientPage from '@/components/ClientPage';
 
 export const metadata: Metadata = {
-  title: 'Ramsee Calendar',
+  title: 'Rams Cal',
   description: 'A beautiful calendar app for Ramsee',
 };
 

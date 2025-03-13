@@ -19,7 +19,7 @@ export default function ClientPage({ isAuth }: ClientPageProps) {
     <main className="min-h-screen bg-gradient-to-br from-pink-50 to-pink-100 py-8">
       <div className="container mx-auto px-4">
         <h1 className="text-4xl font-bold text-center text-pink-600 mb-8">
-          Ramsee Calendar
+          Rams Cal
         </h1>
         {isAuth ? (
           <Calendar />
